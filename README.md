@@ -9,7 +9,7 @@ To get started with this course, clone this repo and follow these commands:
 
 # Features
 
-* [ ] User can connect to solana wallet
+* [x] User can connect to solana wallet
 * [ ] User can add GIF to solana blockchaine
 * [ ] User can play around with GIFS
 
